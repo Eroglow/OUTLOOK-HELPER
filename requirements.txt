@@ -1,0 +1,6 @@
+PyQt5>=5.15.9
+pandas>=2.1.0
+openpyxl>=3.1.2
+pywin32>=306; platform_system == "Windows"
+pyperclip>=1.8.2
+chardet>=5.2.0
